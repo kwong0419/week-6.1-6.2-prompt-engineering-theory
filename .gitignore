@@ -2,3 +2,4 @@
 venv/
 overview.md
 lesson.py
+.env
