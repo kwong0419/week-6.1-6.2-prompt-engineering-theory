@@ -7,6 +7,7 @@
 ## Introduction
 
 Prompt Engineering is a crucial skill in Natural Language Processing (NLP) that enables effective communication with AI language models. This lesson focuses on crafting prompts to guide AI models in generating desired outputs and practical applications using the Gemini API.
+The application of prompt engineering is not limited to just the Gemini API, but it is a crucial skill to have when working with any AI model including LLMs from OpenAI, Anthropic, Google, and more.
 
 ## Why Prompt Engineering Matters
 
