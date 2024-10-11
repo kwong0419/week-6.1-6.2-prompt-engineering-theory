@@ -3,3 +3,5 @@ venv/
 overview.md
 lesson.py
 .env
+func.md
+trial.py
