@@ -23,12 +23,10 @@ By the end of this course, you will be able to:
 
 1. **Installation**: Set up and configure the Gemini API for prompt engineering tasks.
 2. **Prompt Components**: Understand the key parts of a prompt and their functions.
-3. **Prompting Guidelines**: Apply best practices for writing clear and effective prompts.
-4. **Iterative Prompting**: Refine prompts based on AI responses to improve outcomes.
-5. **Summarization Techniques**: Use prompts to generate concise summaries of longer texts.
-6. **Inference Skills**: Craft prompts that enable AI to make accurate inferences from given data.
-7. **Text Transformation**: Employ prompts to modify text style, tone, or format.
-8. **Data Analysis**: Integrate prompt engineering with data manipulation for insightful analysis.
+3. **Prompt Engineering Guidelines and Best Practices**: Apply best practices for writing clear and effective prompts.
+4. **System Instructions**: Use system instructions to shape the behavior of AI models.
+5. **Creating Specialized Assistants**: Create specialized assistants for specific tasks or domains.
+
 
 ## API Comparison Note
 
