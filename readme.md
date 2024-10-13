@@ -30,6 +30,6 @@ By the end of this course, you will be able to:
 
 ## API Comparison Note
 
-While this course focuses on the Gemini API, it's important to note that prompt engineering principles are applicable across various AI platforms. However, there are differences in how prompts are structured and processed between Gemini, OpenAI, Claude APIs as well as other Large Language Models. We'll highlight these differences where relevant throughout the course.
+While this course focuses on the Gemini API, it's important to note that prompt engineering principles are applicable across various AI platforms. However, there are differences in how prompts are structured and processed between Gemini, OpenAI, Claude APIs as well as other Large Language Models. Refer to the specific API documentation of your model for details on syntax and capabilities.
 
 
