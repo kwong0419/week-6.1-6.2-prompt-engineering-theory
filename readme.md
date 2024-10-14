@@ -21,12 +21,12 @@ The application of prompt engineering is not limited to just the Gemini API, but
 
 By the end of this course, you will be able to:
 
-1. **Installation**: Set up and configure the Gemini API for prompt engineering tasks.
-2. **Prompt Components**: Understand the key parts of a prompt and their functions.
-3. **Prompt Engineering Guidelines and Best Practices**: Apply best practices for writing clear and effective prompts.
-4. **System Instructions**: Use system instructions to shape the behavior of AI models.
-5. **Creating Specialized Assistants**: Create specialized assistants for specific tasks or domains.
-
+1. Set up and configure the Gemini API for prompt engineering tasks.
+2. Understand the key parts of a prompt and their functions.
+3. Apply best practices for writing clear and effective prompts.
+4. Use system instructions to shape the behavior of AI models.
+5. Create specialized assistants for specific tasks or domains.
+6. Create prompts for both data and non-data examples.
 
 ## API Comparison Note
 
