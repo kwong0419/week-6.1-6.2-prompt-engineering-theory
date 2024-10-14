@@ -17,9 +17,9 @@ The application of prompt engineering is not limited to just the Gemini API, but
 4. **Ensures Consistency**: Standardized prompting techniques lead to more reliable outputs.
 5. **Promotes Ethical AI Use**: Thoughtful prompts help in generating unbiased and appropriate content.
 
-## Course Objectives
+## Lesson Objectives
 
-By the end of this course, you will be able to:
+By the end of this lesson, you will be able to:
 
 1. Set up and configure the Gemini API for prompt engineering tasks.
 2. Understand the key parts of a prompt and their functions.
