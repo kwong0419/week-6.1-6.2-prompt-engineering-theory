@@ -2,10 +2,11 @@
 venv/
 overview.md
 lesson.py
-.env
+
 func.md
 trial.py
 maybe.md
 better.md
 old.md
 system-instruct.md
+.env
