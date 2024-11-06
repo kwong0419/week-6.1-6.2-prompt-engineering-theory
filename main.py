@@ -9,10 +9,16 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-p", "--prompt", help="prompt to send to ai")
 # file name
 parser.add_argument("-f", "--file", help="path to write AI response to")
+parser.add_argument("-u", "--userfile", help="file to get user prompt from")
 # parse_args will turn terminal flags into python dictionary (key value pairs)
 args = parser.parse_args()
 # prompt and file are individual entries in args dictionary
 prompt = args.prompt
+if "userfile" in args:
+    print(args.userfile)
+    file_from_user = open(args.userfile)
+    prompt = file_from_user.read()
+    file_from_user.close()
 file = args.file
 load_dotenv()
 
@@ -40,5 +46,7 @@ text = get_completion(prompt or "Say Something")
 f = open(file if file else "ai.md", "w")
 # f = open("simple.md", "w")
 # f.write(f"Prompt: {(prompt or "say something")} \nResponse: \n {text}")
+
+text = "\n".join(text.split('\n')[1:-1]) # removes first and last line of text
 f.write(f"{text}")
 f.close()
